@@ -56,10 +56,13 @@ Some of the main steps included:
 
 ## Links
 Video Link:
+https://youtu.be/H87JF_hh68I
 
 Published Report Link:
+https://app.powerbi.com/groups/me/list?experience=power-bi&subfolderId=87407
 
-LinkedIn Link
+LinkedIn Link:
+https://www.linkedin.com/in/jordan-worrobah-462786223/
 
 By:
 Jordan Worrobah
